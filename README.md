@@ -2,6 +2,12 @@
 
 ![RidesApp Screenshot](./assets/mockup.png)
 
+<p align="center">
+  <img src="./assets/1.png" width="30%"/>
+  <img src="./assets/2.png" width="30%"/>
+  <img src="./assets/3.png" width="30%"/>
+</p>
+
 RidesApp is a modern mobile application built with Expo, designed to connect users for ride-sharing or ride-booking services. Whether you're looking to offer a ride or find one, RidesApp provides a seamless platform for managing trips, connecting with other users, and ensuring smooth transportation experiences.
 
 ## ✨ Key Features & Benefits
